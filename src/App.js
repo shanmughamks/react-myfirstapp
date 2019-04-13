@@ -19,8 +19,7 @@ class App extends Component {
           >
             Learn React
           </a>
-          <p>This is my first React App</p>
-          <button>Save</button>
+          <p>This is my first React App</p>          
         </header>
       </div>
     );
